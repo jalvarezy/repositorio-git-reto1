@@ -77,3 +77,25 @@ Se agregó Mundo.js a preparación, automaticamente se detecta que hubieron camb
 ## 14. Preparar los cambios y confirmarlos con un mensaje descriptivo
 
 ![Preparaciín y confirmación de cambios](./img/confirmaci%C3%B3n%20de%20cambios.png)
+
+## 15. Cargar Archivos al repositorio de github y verificar que se hubiesen cargado correctamente , ver el historial de cambios de Hola.js y describirlos
+
+Se ejecuta el comando:
+`git add .` para agregar todos los archivos y carpeta restante al área de preparación, luego se ejecuta el comando `git status' para comprobar si todo fue agregado a al área de preparación antes de proceder a realizar el git commit.
+
+![git status de archivos a subir al repo](./img/gis%20status%20archivos%20restantes.png)
+
+
+Una vez verificado todo está listo para ser aprobado, procedemos a realizar Git commit
+
+![Git commit subida archivos a repo](./img/git%20commit%20subida%20archivos.png)
+
+
+Posteriormente a ello, se procede a revisar el repositorio del reto y se verifica que todo haya subido correctamente al repositorio en github.
+
+
+![Subida de archivos al repositorio](./img/subida%20de%20archivos.png)
+
+Para finalizar se revisa el historial de cambios del archivo Hola.js
+
+![Historial cambios Hola](./img/historial%20cambios%20Hola.png)
